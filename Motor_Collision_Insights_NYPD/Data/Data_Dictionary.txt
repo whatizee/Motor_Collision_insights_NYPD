@@ -1,0 +1,16 @@
+CRASH DATE: The date when the crash occurred.
+CRASH TIME: The time when the crash occurred.
+LATITUDE: The latitude coordinate of the crash location.
+LONGITUDE: The longitude coordinate of the crash location.
+NUMBER OF PERSONS INJURED: The count of individuals injured in the crash.
+NUMBER OF PERSONS KILLED: The count of individuals killed in the crash.
+NUMBER OF PEDESTRIANS INJURED: The count of pedestrians injured in the crash.
+NUMBER OF PEDESTRIANS KILLED: The count of pedestrians killed in the crash.
+NUMBER OF CYCLIST INJURED: The count of cyclists injured in the crash.
+NUMBER OF CYCLIST KILLED: The count of cyclists killed in the crash.
+NUMBER OF MOTORIST INJURED: The count of motorists injured in the crash.
+NUMBER OF MOTORIST KILLED: The count of motorists killed in the crash.
+CONTRIBUTING FACTOR VEHICLE 1: The primary contributing factor to the crash as reported for Vehicle 1.
+COLLISION_ID: A unique identifier for each collision event.
+VEHICLE TYPE CODE 1: The type of vehicle involved in the crash for Vehicle 1.
+BOROUGH: The borough in which the crash occurred (if applicable).
