@@ -1,0 +1,12 @@
+Title: Motor Collision Insights NYPD Tableau Dashboard
+
+Description: This repository contains the Tableau dashboard project for analyzing motor collision data in New York City, specifically focusing on insights relevant to the NYPD. The dashboard includes visualizations and interactive features to explore trends, patterns, and key metrics related to motor collisions, helping stakeholders in law enforcement and city planning make informed decisions and improve road safety measures.
+
+Key Features:
+- Visualizations of collision locations on a map for geographic analysis
+- Time series charts showing collision trends over different time intervals
+- Filtering options for exploring collision data by factors such as severity, vehicle type, and contributing factors
+- Statistical summaries and key performance indicators for quick insights
+- Integration of external data sources for contextual analysis and correlation with collision data
+
+Note: Ensure proper data anonymization and security measures are in place when handling sensitive data such as motor collision records.
